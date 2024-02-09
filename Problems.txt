@@ -1,0 +1,70 @@
+                         
+        Sum of Two Numbers: Write a program that takes two integers as input and prints their sum.
+
+        Average of Three Numbers: Develop a program that calculates and displays the average of three given numbers.
+
+        Swap Values using a Third Variable
+
+
+                                                Hw 
+
+        Temperature Converter: Write a program that converts temperature from Celsius to Fahrenheit.
+        write a pro to print name, email only using 1 printf function
+
+----------------------------------------------------------------------------------------------
+                     
+        HW solve
+        VS Code
+        MinGW
+
+----------------------------------------------------------------------------------------------
+                     
+
+HW solve
+operators -> = assignment operator, +, -, *, /, %, ++, --, +=, -=, *=
+Area of Circle
+Area of Triangle
+swap withou third variable 
+                    HW
+Area of Cylinder
+Area of Rectangle
+
+----------------------------------------------------------------------------------------------
+                     
+Github
+
+HW solve
+
+        scanf 
+all problems using scanf function
+
+
+----------------------------------------------------------------------------------------------
+                     
+Conditional statements: 
+                        simple if
+                        if else
+                        else if ladder
+                        nested if else
+                        switch case 
+                        ternary operators
+
+----------------------------------------------------------------------------------------------
+                     
+Loops : 
+        while           1 to 100 in all loops 
+        for             even in 1 to 100
+        do while        series
+
+----------------------------------------------------------------------------------------------
+                     
+patterns
+
+
+----------------------------------------------------------------------------------------------
+                     
+Arrays
+
+----------------------------------------------------------------------------------------------
+                     
+pinters
