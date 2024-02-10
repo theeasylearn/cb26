@@ -9,12 +9,12 @@ void main() {
     printf("Enter marks2: ");
     scanf("%f", &marks2);
 
-    // if else statements
     
+    // if else statements
     if (marks1 > marks2) {
-        printf("%f", marks1);
+        printf("%.2f", marks1);
     } 
     else {
-        printf("%f", marks2);
+        printf("%.2f", marks2);
     }
 }
