@@ -1,3 +1,5 @@
 1 write a program to create a calculator using switch case
 2 write a program to print highest / lowest number of three numbers
 
+3 write a program to print 1 to 10 using while loop
+4 write a program to 10 to 1
