@@ -8,15 +8,23 @@ void main() {
         /* code */
     }
     
+   //////////////////////////////////////////////////////////
+
+   for (variable ; condition ; increment / decrement) 
+   {
+        // conde 
+   }
    
    for (size_t i = 0; i < count; i++)
    {
     /* code */
    }
    
-   do {
+   //////////////////////////////////////////////////////////
+
+   do
+   {
     /* code */
-   } while (/* condition */);
-   
-   
+   } 
+   while (/* condition */);
 }
