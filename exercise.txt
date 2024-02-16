@@ -7,3 +7,8 @@
 5 write a program to print all odd numbers till 100
 6 write a program to print 1 to N numbers {1 2 3 4 ... N}; take N{input} from user
 7 write a program to print all even number between 1 to N {2 4 6 ... N} ; take N{input} from user
+
+8 Write a pro to print factorial of first n numbers.
+9 Display this GP 1,2,4,8,16,32,...,n terms.
+10 Write a pro to print this GP: 3,12,48,...,n terms
+11 Write a pro to print length of a number {eg : number = 789 => length = 3}
