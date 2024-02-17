@@ -9,10 +9,11 @@ void main()
     int factorial = 1;
     for (int i = 1; i <= n; i++) {
         factorial *= i;
-        // factorial = factorial * i;
     }
-    printf("%d! = %d", n, factorial);
-    
+    printf("%d! = %d\n", n, factorial);
 }
 
-// 4! = 4 * 3 * 2 * 1
+// 4! = 4 * 3 * 2 * 1 = 4 * 3!
+// 3! = 3 * 2 * 1 = 3 * 2!
+// 2! = 2 * 1!
+// 1! = 1;

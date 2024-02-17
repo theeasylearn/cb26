@@ -12,3 +12,98 @@
 9 Display this GP 1,2,4,8,16,32,...,n terms.
 10 Write a pro to print this GP: 3,12,48,...,n terms
 11 Write a pro to print length of a number {eg : number = 789 => length = 3}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+12 Write a pro to print sum of digit of given number.
+13 Write a pro to print PRODUCT of all digit of given number.
+14 Guess the number / write a program to take input a number until user dont enter key;
+15 Write a pro to print reverse of given number.
+
+
+
+
+Display this GP 1,2,4,8,16,32,...,n terms.
+
+1,2,4,8,16,32,...,n
+
+term = 1
+printf("%d ", term); // 1
+term = term * 2; // 1 * 2 = 2
+printf("%d ", term); // 2
+term = term * 2; // 2 * 2 = 4
+printf("%d ", term); // 4
+term = term * 2; // 4 * 2 = 8
+printf("%d ", term); // 8
+
+
+
+10 Write a pro to print this GP: 3,12,48,...,n terms
+
+term = 3
+printf("%d", term); // 3
+term = term * 4; // term = 12
+printf("%d", term); // 12
+term = term * 4; // term = 48
+printf("%d", term); // 48
+
+
+
+11 Write a pro to print length of a number {eg : number = 789 => length = 3}
+
+
+// number = 78
+
+int number = 789, length = 0 ;
+
+number = 789
+length = length + 1 // length = 1
+
+number = 78
+length = length + 1 // length = 2
+
+number = 7
+length = length + 1 // length = 3
+
+number = 0
+
+
+123 / 10 = 12
+number = 1234
+number = number / 10   
+length++ // length 1
+
+number = 123
+number = number / 10 // number = 12
+length++ // length 2
+
+number = 12
+number = number / 10 // number = 1.2
+length++ // length 3
+
+number = 1
+length++ // length 4
+
+number = 0
+/////////////////////////////////////////////////////////////////////////
+
+length = 0
+
+number = 543
+
+length ++;  // 1 
+ld = number / 10 // number = 54
+
+length = length + 1 // length = 2
+number = number / 10 // number = 5
+
+length++; // length = 3
+number = number / 10  ; number = 0
+
+
+while (number != 0)
+
+
+////////////////////////////////////////////////////
+
+8 Write a pro to print factorial of first n numbers.
