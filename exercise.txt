@@ -20,7 +20,7 @@
 14 Guess the number / write a program to take input a number until user dont enter key;
 15 Write a pro to print reverse of given number.
 
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Display this GP 1,2,4,8,16,32,...,n terms.
