@@ -7,7 +7,8 @@ void main()
     int key = 10;
     int input;
     // bool flag = true;
-    // while (true)
+    // int num = 1;
+    // while (num > 0)
     // {
     //     printf("Enter a number: ");
     //     scanf("%d", &input);

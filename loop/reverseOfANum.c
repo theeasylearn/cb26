@@ -3,12 +3,13 @@
 
 #include<stdio.h>
 void main() {
-    int num = 546;
+    int num = 1233211;
+    scanf("%d", &num);
     int rnum = 0;
 
     while (num != 0)
     {
-        rnum = rnum * 10 + num % 10; // 640 + 5 = 654
+        rnum = rnum * 10 + num % 10; // 645
         num /= 10; // num = 0
         
     }

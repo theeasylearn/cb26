@@ -5,7 +5,7 @@
 4 write a program to 10 to 1
 
 5 write a program to print all odd numbers till 100
-6 write a program to print 1 to N numbers {1 2 3 4 ... N}; take N{input} from user
+6 write a program to print 1 to N numbers {1 2 3 4 ... N}; take N { input } from user
 7 write a program to print all even number between 1 to N {2 4 6 ... N} ; take N{input} from user
 
 8 Write a pro to print factorial of first n numbers.
@@ -19,6 +19,46 @@
 13 Write a pro to print PRODUCT of all digit of given number.
 14 Guess the number / write a program to take input a number until user dont enter key;
 15 Write a pro to print reverse of given number.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 1 2 3 
+// 4 5 6 
+// 7 8 9
+
+// 2 4 6 
+// 8 10 12
+// 14 16 18
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+a a a a 
+b b b b 
+c c c c 
+d d d d 
+
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+
+1 
+2 2 
+3 3 3 
+4 4 4 4
+
+a 
+b b 
+c c c 
+d d d d 
+
+a 
+a b 
+a b c 
+a b c d 
+
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -52,7 +92,7 @@ printf("%d", term); // 48
 11 Write a pro to print length of a number {eg : number = 789 => length = 3}
 
 
-// number = 78
+// number = 789
 
 int number = 789, length = 0 ;
 
