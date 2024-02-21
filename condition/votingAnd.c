@@ -17,3 +17,4 @@ void main() {
         printf("You can not vote");
     }
 }
+

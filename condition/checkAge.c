@@ -11,6 +11,7 @@ void main() {
     }
 
     printf("good bye");
+
     // >
     // <
     // >=
@@ -18,8 +19,9 @@ void main() {
     // ==
     // int temp = 1;
 
-    
 
+
+    
 
 
 }
