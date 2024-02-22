@@ -24,6 +24,9 @@ void main()
         }
         printf("\n");
     }
+    
+    // float-> %.2f 123.12
+    // int -> %.2d   01
 
     // for (i = 1; i <= height; i++)
     // {

@@ -21,7 +21,7 @@ void main()
     // 
     for (i = 1; i <= height; i++) { // height // row
         for (j = 1; j <= width ;j++) { // width // col
-            printf(" * ");
+            printf(" *   ");
         }
         printf("\n");
     }
