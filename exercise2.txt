@@ -4,3 +4,8 @@
     2 write a pro to print addition, subtraction, Multiplication, division of 2 nums 
     3 write a pro to check if num is even or odd using function
     4 write a pro to print highest of three nums using function
+
+ 1 - 3 - 24 
+   1 nCr
+
+   
