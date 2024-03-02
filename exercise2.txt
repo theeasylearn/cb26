@@ -8,4 +8,9 @@
  1 - 3 - 24 
    1 nCr
 
-   
+
+2 - 3 - 24
+   // 1 nCr
+   // odd even
+   // Create a program to find the largest among three numbers.
+
