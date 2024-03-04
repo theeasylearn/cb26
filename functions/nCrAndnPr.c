@@ -10,6 +10,10 @@ int factorial(int num) {
     return fact;
 }
 
+int ncr(int n, int r) {
+    return factorial(n) / (factorial(r) * factorial(n - r));   
+}
+
 int npr(int n, int r) {
     int temp = factorial(n) / factorial(n - r);
     return temp;
@@ -18,15 +22,17 @@ int npr(int n, int r) {
 int main() {
 
     int n = 6, r = 2;
-    // printf("Enter n and r: ");
-    // scanf("%d %d", &n, &r);
+    printf("Enter n and r: ");
+    scanf("%d %d", &n, &r);
 
     if (n < r) {
         printf("Invalid input\n ");
         printf("please enter n >= r <= 0 \n ");
         return 0;
     } else {
-        printf("%d P %d = %d ", n, r, npr(n, r));
+        printf("%d P %d = %d \n", n, r, npr(n, r));
+        printf("%d C %d = %d ", n, r, ncr(n, r));
+        
     }
 
 

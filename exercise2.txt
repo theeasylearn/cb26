@@ -9,8 +9,11 @@
    1 nCr
 
 
-2 - 3 - 24
+2 - 3 - 24  using pointer
    // 1 nCr
    // odd even
    // Create a program to find the largest among three numbers.
 
+4 - 3 - 24
+   highest of all elements 
+   sum of all elements

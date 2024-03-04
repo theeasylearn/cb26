@@ -4,7 +4,7 @@
 int main() {
     printf("%f \n", sqrt(64));
 
-    printf("%f \n", cbrt(64));
+    printf("cube = %f \n", cbrt(3.2));
 
     printf("%f \n", pow(2, 4));
 

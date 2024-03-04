@@ -14,7 +14,7 @@ bool check(int num) {
         rnum = rnum * 10 + num % 10;
         // num /= 10;
         num = num / 10;
-    }
+    } // to get rnum
     
     if (num2 == rnum) {
         return true;
