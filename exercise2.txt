@@ -17,5 +17,10 @@
 6 - 3 - 24
    highest of all elements 
    print array in reverse order 
-   
+
+7 - 3 - 24
+   print number of vowel in array
+   polindrome
+    
+
 

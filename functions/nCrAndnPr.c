@@ -18,7 +18,7 @@ int npr(int n, int r) {
     int temp = factorial(n) / factorial(n - r);
     return temp;
 }
-
+    
 int main() {
 
     int n = 6, r = 2;
