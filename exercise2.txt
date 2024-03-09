@@ -24,3 +24,10 @@
     
 
 
+9 3 24
+   print number of odd elements present in a 2d array / matrix
+
+   print number of characters in a string
+   print number of words in a string 
+   print number of vowels in string 
+   
