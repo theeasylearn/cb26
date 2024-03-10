@@ -13,7 +13,7 @@ int main() {
     }
     printf("\n");
 
-    char btr[] = "nAyani";
+    char btr[] = "nAyany is coder ";
     // for (int i = 0; i < 6; i++) {
     //     printf("%c ", btr[i]);
     // }
@@ -21,6 +21,8 @@ int main() {
     printf("%s is coder", btr);
     printf("\n");
     puts(btr); // to show output 
+
+    // btr[0] = "mahamd ";
 
     printf("\n------------------------------\n");
 
@@ -41,7 +43,6 @@ int main() {
 
 
     printf("%d ", strlen(ctr));
-
 
     return 0;
 }

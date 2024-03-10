@@ -6,7 +6,7 @@ int main()
 
     // int matrix[row][col] = {{elements of row1}, {elements of row2}, {elements of row3}, ... };
 
-    int arr[3][5] = {{1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}};
+    int arr[3][5] = { {1, 2, 3, 4, 5}, {1, 2, 3, 4, 5}, {1, 2, 3, 4, 5} } ;
 
     arr[0][2];                  // 3
     // printf("%d \n", arr[2][4]); // 5 
@@ -18,6 +18,7 @@ int main()
         for (int j = 0; j < 5; j++)
         { // column
             printf("%d ", arr[i][j]);
+            // printf("* ");
         }
         printf("\n");
     }

@@ -1,5 +1,4 @@
  28 - 2 - 24
-
     1 write a pro to print hello world n times using function
     2 write a pro to print addition, subtraction, Multiplication, division of 2 nums 
     3 write a pro to check if num is even or odd using function
@@ -21,7 +20,8 @@
 7 - 3 - 24
    print number of vowel in array
    polindrome
-    
+      11011
+      bob
 
 
 9 3 24
